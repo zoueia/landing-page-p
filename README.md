@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * [Instructions](#instructions)
-* [Modifications to app.js file](# Modifications to app.js file)
+* [Modifications](# Modifications to app.js file)
 * [Modifications to style.css file](# Modifications to style.css file)
 * [Modifications to index.html file](# Modifications to index.html file)
 
