@@ -4,8 +4,8 @@
 
 * [Instructions](#instructions)
 * [Modifications to app.js file](#modifications-to-appjs-file)
-* [Modifications to style.css file](https://github.com/zoueia/landing-page-p/blob/main/README.md#modifications-to-stylecss-file)
-* [Modifications to index.html file](https://github.com/zoueia/landing-page-p/blob/main/README.md#modifications-to-indexhtml-file)
+* [Modifications to style.css file](#modifications-to-stylecss-file)
+* [Modifications to index.html file](#modifications-to-indexhtml-file)
 
 ## Instructions
 
