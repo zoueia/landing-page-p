@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * [Instructions](#instructions)
-* [Modifications to app.js file](#Modifications_to_app.js_file)
+* [Modifications to app.js file](#Modifications(to_app.js_file))
 * [Modifications to style.css file](#Modifications_to_style.css_file)
 * [Modifications to index.html file](#Modifications_to_index.html_file)
 
@@ -15,6 +15,6 @@ To get started, open `js/app.js` and start building out the app's functionality
 
 For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
 
-##Modifications_to_app.js_file
+##Modifications(to_app.js_file)
 ##Modifications_to_style.css_file
 ##Modifications_to_index.html_file
