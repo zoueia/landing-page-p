@@ -3,9 +3,9 @@
 ## Table of Contents
 
 * [Instructions](#instructions)
-* [Modifications to app.js file](https://github.com/zoueia/landing-page-p/blob/main/README.md#Modifications to app.js file)
-* [Modifications to style.css file](https://github.com/zoueia/landing-page-p/blob/main/README.md#modifications_to_stylecss_file)
-* [Modifications to index.html file](https://github.com/zoueia/landing-page-p/blob/main/README.md#modifications_to_indexhtml_file)
+* [Modifications to app.js file](https://github.com/zoueia/landing-page-p/blob/main/README.md#modifications-to-appjs-file)
+* [Modifications to style.css file](https://github.com/zoueia/landing-page-p/blob/main/README.md#modifications-to-stylecss-file)
+* [Modifications to index.html file](https://github.com/zoueia/landing-page-p/blob/main/README.md#modifications-to-indexhtml-file)
 
 ## Instructions
 
