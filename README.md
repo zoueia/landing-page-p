@@ -5,7 +5,7 @@
 * [Instructions](#instructions).
 * [Modifications](#Modifications)
 * [Modifications to style.css file](#Modifications)
-* [Modifications to index.html file](#Modifications to index.html file)
+* [Modifications to index.html file](#Modifications-to-index.html-file)
 * [Modifications to app.js file](#Modifications to app.js file)
 ## Instructions
 
