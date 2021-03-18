@@ -4,7 +4,7 @@
 
 * [Instructions](#instructions).
 * [Modifications](#Modifications)
-* [Modifications to style.css file](#Modifications to style.css file)
+* [Modifications to style.css file](#Modifications)
 * [Modifications to index.html file](#Modifications to index.html file)
 * [Modifications to app.js file](#Modifications to app.js file)
 ## Instructions
@@ -19,3 +19,4 @@ For specific, detailed instructions, look at the project instructions in the Uda
 ## Modifications to style.css file
 ## Modifications to index.html file
 ##Modifications
+ to style.css file
