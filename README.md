@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * [Instructions](#instructions)
-* [Modifications to app.js file](#Modifications_to_app.js_file)
+* [Modifications to app.js file](https://github.com/zoueia/landing-page-p/blob/main/README.md#modifications_to_appjs_file)
 * [Modifications to style.css file](#Modifications_to_style.css_file)
 * [Modifications to index.html file](#Modifications_to_index.html_file)
 
