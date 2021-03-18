@@ -1,0 +1,1 @@
+let all =document.getElementsByTagName("section")
